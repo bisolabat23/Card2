@@ -1,0 +1,40 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  background-image: url("https://res.cloudinary.com/djx24phtg/image/upload/v1684957080/photo-1684670179697-7b6d0213f152_pvgzot.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Space Grotesk', sans-serif;
+  padding-left: 350px;
+  height: 550px;
+}
+
+h1 {
+  font-size: 60px;
+  margin-top: 50px;
+  padding-top: 50px;
+}
+h4 {
+  width: 65%;
+  color: #5f5d68;
+  font-size: 17px;
+  line-height: 1.5;
+  margin-bottom: 30px;
+  font-weight: 500;
+  font-style: normal;
+}
+.texts {
+  font-size: 15px;
+}
+
+#shape {
+  color: darkorange;
+  size: 25px;
+}
